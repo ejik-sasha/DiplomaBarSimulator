@@ -1,0 +1,59 @@
+{
+  "Items": [
+    {
+      "Id": "npc_1",
+      "DisplayName": "Петрович",
+      "Archetype": "fisherman",
+      "Temper": "rough",
+      "Mood": "tired",
+      "PreferredTaste": "bitter",
+      "PreferredStrength": "strong",
+      "LikesIce": false,
+      "Patience": 0.5
+    },
+    {
+      "Id": "npc_2",
+      "DisplayName": "Анна Сергеевна",
+      "Archetype": "business_woman",
+      "Temper": "strict",
+      "Mood": "irritated",
+      "PreferredTaste": "bitter",
+      "PreferredStrength": "medium",
+      "LikesIce": true,
+      "Patience": 0.4
+    },
+    {
+      "Id": "npc_3",
+      "DisplayName": "Лиза",
+      "Archetype": "young_girl",
+      "Temper": "playful",
+      "Mood": "cheerful",
+      "PreferredTaste": "sweet",
+      "PreferredStrength": "light",
+      "LikesIce": true,
+      "Patience": 0.9
+    },
+    {
+      "Id": "npc_4",
+      "DisplayName": "Иван Степанович",
+      "Archetype": "old_man",
+      "Temper": "calm",
+      "Mood": "sad",
+      "PreferredTaste": "sour",
+      "PreferredStrength": "medium",
+      "LikesIce": false,
+      "Patience": 0.8
+    },
+    {
+      "Id": "npc_5",
+      "DisplayName": "Макс",
+      "Archetype": "student",
+      "Temper": "curious",
+      "Mood": "cheerful",
+      "PreferredTaste": "fresh",
+      "PreferredStrength": "light",
+      "LikesIce": true,
+      "Patience": 0.7
+    }
+  ]
+}
