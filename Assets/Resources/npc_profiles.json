@@ -1,0 +1,17 @@
+{
+  "Items": [
+    
+    {
+      "Id": "npc_1",
+      "DisplayName": "Лиза",
+      "Archetype": "young_girl",
+      "Temper": "playful",
+      "Mood": "cheerful",
+      "PreferredTaste": "sweet",
+      "PreferredStrength": "light",
+      "LikesIce": true,
+      "Patience": 0.9,
+      "ModelId": "man"
+    }
+  ]
+}

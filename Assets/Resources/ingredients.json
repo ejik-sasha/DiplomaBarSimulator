@@ -1,0 +1,11 @@
+{
+  "Items": [
+    { "Id": "gin", "Name": "Gin", "Category": "alcohol", "Price": 80 },
+    { "Id": "campari", "Name": "Campari", "Category": "alcohol", "Price": 90 },
+    { "Id": "vermouth_red", "Name": "Red Vermouth", "Category": "alcohol", "Price": 85 },
+    { "Id": "rum_white", "Name": "White Rum", "Category": "alcohol", "Price": 75 },
+    { "Id": "soda", "Name": "Soda", "Category": "soft", "Price": 25 },
+    { "Id": "mint", "Name": "Mint", "Category": "garnish", "Price": 20 },
+    { "Id": "ice", "Name": "Ice", "Category": "ice", "Price": 10 }
+  ]
+}

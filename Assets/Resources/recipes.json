@@ -1,0 +1,35 @@
+{
+  "Items": [
+    {
+      "Id": "negroni",
+      "Name": "Negroni",
+      "TasteProfile": "bitter",
+      "StrengthProfile": "strong",
+      "basePrice": 180,
+      "RequiresIce": true,
+      "TargetStirLevel": 0.0,
+      "TargetShakeLevel": 1.0,
+      "RequiredGarnishes": ["orange"],
+      "Ingredients": [
+        { "IngredientId": "gin", "AmountMl": 30.0 },
+        { "IngredientId": "campari", "AmountMl": 30.0 },
+        { "IngredientId": "vermouth_red", "AmountMl": 30.0 }
+      ]
+    },
+    {
+      "Id": "mojito",
+      "Name": "Mojito",
+      "TasteProfile": "fresh",
+      "StrengthProfile": "light",
+      "basePrice": 120,
+      "RequiresIce": true,
+      "TargetStirLevel": 2.0,
+      "TargetShakeLevel": 0.0,
+      "RequiredGarnishes": ["mint"],
+      "Ingredients": [
+        { "IngredientId": "rum_white", "AmountMl": 50.0 },
+        { "IngredientId": "soda", "AmountMl": 100.0 }
+      ]
+    }
+  ]
+}
